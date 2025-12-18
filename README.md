@@ -1,7 +1,7 @@
-# FMCG Lakehouse Data Engineering Project (Databricks Free Edition)
+# FMCG Lakehouse Data Engineering Project
 
 ##  Overview
-This project implements an end-to-end Lakehouse architecture for an FMCG company scenario where a large enterprise (Atlon) acquires a startup (Sports Bar).
+This project implements an end-to-end Lakehouse architecture for an FMCG company scenario where a large enterprise (Atlikon) acquires a startup (Sports Bar).
 
 The goal is to consolidate fragmented OLTP data into a unified analytics-ready platform using Databricks.
 
